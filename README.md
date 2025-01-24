@@ -1,2 +1,2 @@
 # Diamonds
-Diaminds classification and price regression
+Diamonds classification and price regression
